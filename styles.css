@@ -1,21 +1,148 @@
 body {
-    background-color: brown;
+    background-color: black;
 }
 
 .header-1 {
-    color: aqua;
-    font-size: 50px;
+    color: rgb(222, 0, 89);
+    font-size: 75px;
     text-align: center;
     margin-top: 400px;
     margin: 5% 5px 5px 5px;
     background-color: black
     back
 }
-
+.header-2 {
+    color: rgb(222, 0, 89);
+    font-size: 35px;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    background-color: black
+    back
+}
+.header-3 {
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    text-align: center;
+    margin-top: 1000px;
+    margin: 5% 5px 5px 5px;
+    background-color: black
+    back
+}
+.header-4 {
+    color: rgb(170, 170, 170);
+    font-size: 18px;
+    text-align: center;
+    margin-top: 40px;
+    background-color: black
+    back
+}
+.paragraph-1 {
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: black
+    back
+}
+.picture-1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%
+}
 button {
+    display: block;
     width: 100px;
     height: 30px;
     border-radius: 10px;
-    color: white;
-    background-color: blue;
+    color: rgb(222, 0, 89);
+    background-color: rgb(174, 174, 174);
+    text-align: center;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+}
+
+a {
+    color: rgb(230, 230, 230);
+    text-decoration: none;
+    text-align: center;
+    display:block;
+    width: 300px;
+    margin:auto;
+    font-size: 15px;
+}
+
+.nevmos {
+    color: rgb(95, 161, 164);
+    font-size: 30px;
+    text-align: center;
+    margin-top: 1000px;
+    margin: 5% 5px 5px 5px;
+    background-color: black
+    back
+}
+
+.pyro {
+    color: rgb(246, 167, 167);
+    font-size: 30px;
+    text-align: center;
+    margin-top: 1000px;
+    margin: 5% 5px 5px 5px;
+    background-color: black
+    back
+}
+
+.kronos {
+    color: rgb(192, 192, 192);
+    font-size: 30px;
+    text-align: center;
+    margin-top: 1000px;
+    margin: 5% 5px 5px 5px;
+    background-color: black
+    back
+}
+
+.korau {
+    color: rgb(238, 246, 167);
+    font-size: 30px;
+    text-align: center;
+    margin-top: 1000px;
+    margin: 5% 5px 5px 5px;
+    background-color: black
+    back
+}
+
+.gaiathus {
+    color: rgb(176, 119, 84);
+    font-size: 30px;
+    text-align: center;
+    margin-top: 1000px;
+    margin: 5% 5px 5px 5px;
+    background-color: black
+    back
+}
+
+.astro {
+    color: rgb(190, 106, 185);
+    font-size: 30px;
+    text-align: center;
+    margin-top: 1000px;
+    margin: 5% 5px 5px 5px;
+    background-color: black
+    back
+}
+
+.glacia {
+    color: rgb(167, 232, 246);
+    font-size: 30px;
+    text-align: center;
+    margin-top: 1000px;
+    margin: 5% 5px 5px 5px;
+    background-color: black
+    back
 }
